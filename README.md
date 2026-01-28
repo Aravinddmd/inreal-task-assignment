@@ -2,7 +2,7 @@
 
 A modern, responsive task management application built with **Next.js 14**, **Supabase**, and **Tailwind CSS**. Designed for performance, security, and scalability.
 
-🔗 **Live Demo:**
+🔗 **Live Demo:** https://inreal-task-assignment.vercel.app/
 
 ---
 
