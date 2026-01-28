@@ -5,6 +5,12 @@
   --foreground: #171717;
 }
 
+@layer base {
+  body {
+    @apply min-w-[320px];
+  }
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
